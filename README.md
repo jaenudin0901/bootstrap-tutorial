@@ -6,3 +6,4 @@ dimulai dari
 2. membuat jumbotron
 3. membuat carausel atau slider
 4. menambahkan tootip
+5. membuat grid sistem
